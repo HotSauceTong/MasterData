@@ -1,0 +1,24 @@
+{
+  "collections": [
+    {
+      "code": 0,
+      "attribute": 0,
+      "name": "Dust",
+      "text": "dust",
+      "attack": -1,
+      "healthPoint": -1,
+      "cost": -1,
+      "description": ""
+    },
+    {
+      "code": 1,
+      "attribute": 0,
+      "name": "Gold",
+      "text": "gold",
+      "attack": -1,
+      "healthPoint": -1,
+      "cost": -1,
+      "description": "난 돈이 좋아!"
+    }
+  ]
+}
