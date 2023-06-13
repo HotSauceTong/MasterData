@@ -2,39 +2,32 @@
   "version": "20230605",
   "rewards": [
     {
-      "count": 1,
-      "collection_code": 0,
-      "collection_count": 100
+      "collectionCode": 0,
+      "collectionCount": 100
     },
     {
-      "count": 2,
-      "collection_code": 0,
-      "collection_count": 110
+      "collectionCode": 0,
+      "collectionCount": 110
     },
     {
-      "count": 3,
-      "collection_code": 0,
-      "collection_count": 120
+      "collectionCode": 0,
+      "collectionCount": 120
     },
     {
-      "count": 4,
-      "collection_code": 0,
-      "collection_count": 130
+      "collectionCode": 0,
+      "collectionCount": 130
     },
     {
-      "count": 5,
-      "collection_code": 0,
-      "collection_count": 140
+      "collectionCode": 0,
+      "collectionCount": 140
     },
     {
-      "count": 6,
-      "collection_code": 0,
-      "collection_count": 150
+      "collectionCode": 0,
+      "collectionCount": 150
     },
     {
-      "count": 7,
-      "collection_code": 1,
-      "collection_count": 800
+      "collectionCode": 1,
+      "collectionCount": 800
     }
   ]
 }
